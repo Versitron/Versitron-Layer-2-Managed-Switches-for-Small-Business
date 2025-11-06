@@ -41,7 +41,7 @@ Versitron designs and manufactures **industrial‑grade managed Ethernet switche
 
 **Power‑over‑Ethernet and managed control combined in a compact switch for cameras.**
 
-- Managed PoE switch variant enables powering IP cameras, access points, and other devices while also providing management visibility and VLAN segmentation. (Versitron offers PoE/PoE+ managed switches in multiple port sizes) :contentReference[oaicite:8]{index=8}  
+- Managed PoE switch variant enables powering IP cameras, access points, and other devices while also providing management visibility and VLAN segmentation. (Versitron offers PoE/PoE+ managed switches in multiple port sizes) 
 - Compact format (e.g., 6 ports) enables cost‑efficient deployment at edge locations or small surveillance hubs.  
 - Offers managed features (VLAN, QoS, port mirroring) to ensure surveillance network traffic can be isolated, prioritised, and monitored effectively.  
 - Excellent for video surveillance deployments, parking lots, facility perimeter monitoring, or small‑scale camera clusters requiring a **6‑port managed PoE switch**.
